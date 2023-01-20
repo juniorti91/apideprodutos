@@ -4,7 +4,7 @@
   "description": "criação de uma API para publicar em um servidor de Hospedagem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
