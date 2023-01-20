@@ -1,0 +1,23 @@
+{
+  "name": "apideprodutos",
+  "version": "1.0.0",
+  "description": "criação de uma API para publicar em um servidor de Hospedagem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorti91/apideprodutos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorti91/apideprodutos/issues"
+  },
+  "homepage": "https://github.com/juniorti91/apideprodutos#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
